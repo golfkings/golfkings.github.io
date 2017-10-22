@@ -9,6 +9,9 @@ a {
 	text-decoration: none;
 }
 
+.width-video{
+	width: 100%
+}
 .my-navbar{
 	background-color: #12683a;
 }
